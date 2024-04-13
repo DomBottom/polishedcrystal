@@ -3,29 +3,29 @@
 	def_grass_wildmons SPROUT_TOWER_2F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	wildmon 3, RATTATA
-	wildmon 4, RATTATA
-	wildmon 5, RATTATA
-	wildmon 3, BELLSPROUT
-	wildmon 6, RATTATA
-	wildmon 5, BELLSPROUT
-	wildmon 6, BELLSPROUT
+	wildmon 3, SNEASEL
+	wildmon 4, TYROGUE
+	wildmon 5, SNEASEL
+	wildmon 3, TYROGUE
+	wildmon 6, SNEASEL
+	wildmon 5, TYROGUE
+	wildmon 6, SNEASEL
 	; day
-	wildmon 3, RATTATA
-	wildmon 4, RATTATA
-	wildmon 5, RATTATA
-	wildmon 3, BELLSPROUT
-	wildmon 6, RATTATA
-	wildmon 5, BELLSPROUT
-	wildmon 6, BELLSPROUT
+	wildmon 3, SNEASEL
+	wildmon 4, TYROGUE
+	wildmon 5, SNEASEL
+	wildmon 3, TYROGUE
+	wildmon 6, SNEASEL
+	wildmon 5, TYROGUE
+	wildmon 6, SNEASEL
 	; nite
-	wildmon 3, RATTATA
-	wildmon 4, RATTATA
-	wildmon 5, GASTLY
-	wildmon 3, BELLSPROUT
-	wildmon 6, GASTLY
-	wildmon 5, BELLSPROUT
-	wildmon 6, BELLSPROUT
+	wildmon 3, SNEASEL
+	wildmon 4, TYROGUE
+	wildmon 5, SNEASEL
+	wildmon 3, TYROGUE
+	wildmon 6, SNEASEL
+	wildmon 5, TYROGUE
+	wildmon 6, SNEASEL
 	end_grass_wildmons
 
 	def_grass_wildmons SPROUT_TOWER_3F
